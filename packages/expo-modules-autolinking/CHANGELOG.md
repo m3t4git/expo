@@ -16,6 +16,7 @@
 ### 💡 Others
 
 - [Android] Introduced the Gradle plugin to improve the autolinking setup. ([#33402](https://github.com/expo/expo/pull/33402) by [@lukmccall](https://github.com/lukmccall))
+- [Android] Added `publication` configuration.
 
 ## 2.0.4 - 2024-12-10
 
